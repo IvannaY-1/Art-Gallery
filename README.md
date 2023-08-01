@@ -4,7 +4,7 @@ the "Art Gallery" website enriches users' experiences with art, providing a virt
 ## [Installation](#installation)
 1. Open a Web Browser, choose any of the list: Google Chrome, Mozilla Firefox, Microsoft Edge, or Safari. Ensure you have a web browser installed on your device.
 
-2. Enter the URL: In the address bar of your web browser, type or copy the following URL: https://lviv-guide-tour-fd25e4.netlify.app/index.html
+2. Enter the URL: In the address bar of your web browser, type or copy the following URL: https://art-gallery-043c73.netlify.app/
 
 3. Press Enter: After entering the URL, press the "Enter" key on your keyboard. The browser will attempt to connect to the specified website.
 
@@ -13,7 +13,7 @@ the "Art Gallery" website enriches users' experiences with art, providing a virt
 ## Navigate the Website
 Use the website's navigation menus, links, or buttons to explore different sections and learn about the piece of art and the artist. 
 
-![image](https://github.com/IvannaY-1/Art-Gallery/assets/140416055/90b62f48-0569-4f2d-aba4-c2185d6b98ac)
+![image](https://github.com/IvannaY-1/Art-Gallery/assets/140416055/9eef67de-8bc7-4fca-996b-d2932dd11cf9)
 
 ## Credits
 The website was developed in collaboration with Akeel Lashley ([linkedin.com/in/akeel-lashley](https://www.linkedin.com/in/akeel-lashley/overlay/contact-info/#:~:text=linkedin.com/in/akeel%2Dlashley)) and Futuretek Academy (https://www.futuretekacademy.com/). 
